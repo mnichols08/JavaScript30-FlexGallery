@@ -45,6 +45,7 @@ html {
   
   /* Flex Children */
   .panel > * {
+    cursor: pointer;
     margin:0;
     width: 100%;
     transition:transform 0.5s;
